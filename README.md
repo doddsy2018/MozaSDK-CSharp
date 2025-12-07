@@ -18,3 +18,7 @@ Note: The core MozaSDK C# files are not including in the repo and must be downlo
 * Extract and place MOZA_API_C.dll & MOZA_API_CSharp.dll from the MOZA_SDK\SDK_CSharp folder into your c# solution folder
 * Build the c# solution as a release (Creates wrapper DLL)
 
+  ## Notes
+  * Spring force can be tuned (increased / decreased) using Moza Pit House
+    * Wheel base -> More -> Advanced Settings -> Game Spring Value
+
